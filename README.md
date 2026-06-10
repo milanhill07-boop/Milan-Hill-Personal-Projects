@@ -7,3 +7,7 @@ In this program, targeting an audience interested in finding the right science f
 Tetris: 
 
 This program displays Tetris high scores and basic stats. Users can view the highest, lowest, and average scores, as well as enter a new score to update the records.
+
+Shopping List:
+
+As a shopoholic, I find it nessecary to avoid overspending by having a structured list of what I need to purchase espically wheni t comes to dorm clothign shopping. In this program users will be able to customizable list, one that can edited regularly. Key Features include allowing users to add and delete items, allows users to alphabetilize the list, and to count the number of items in the list. 
